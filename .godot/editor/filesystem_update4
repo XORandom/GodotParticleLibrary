@@ -1,0 +1,5 @@
+res://default_env.tres
+res://2DParticles/Static/ElectricField.tscn
+res://3DParticles/Projectile/ArcaneBolt/ArcaneBoltSphere.tres
+res://3DParticles/Projectile/ArcaneBolt/ArcaneBoltTrails.tres
+res://2DParticles/Static/ElectricField.tres
